@@ -1,4 +1,4 @@
-![logo](https://github.com/AnjaliSingh02/Anjali_Singh/blob/main/banner.png)
+![logo](https://github.com/AnjaliSingh02/AnjaliSingh02/blob/main/banner.png)
 
 ### Hi there 👋
 
