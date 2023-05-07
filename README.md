@@ -1,8 +1,8 @@
 ![logo](https://github.com/AnjaliSingh02/AnjaliSingh02/blob/main/banner.png)
 
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Anjali Singh</h1>
+
+<h1 align="center">Hi there 👋, I'm Anjali Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="codingGif" width="400" src="https://blog.wrappixel.com/wp-content/uploads/2022/05/woman-working-on-laptop-2.gif"
