@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, I'm Anjali Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="codingGif" width="500" height="300" src="https://blog.wrappixel.com/wp-content/uploads/2022/05/woman-working-on-laptop-2.gif">
+<img align="right" alt="codingGif" width="500" height="300" src="https://blog.wrappixel.com/wp-content/uploads/2022/05/woman-working-on-laptop-2.gif" >
 
 - 🌱 I’m currently learning **JavaScript, React.Js**
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalisingh02&show_icons=true&locale=en&layout=compact" alt="anjalisingh02" />
 
-&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalisingh02&show_icons=true&locale=en" alt="anjalisingh02" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anjalisingh02&show_icons=true&locale=en" alt="anjalisingh02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalisingh02&" alt="anjalisingh02" /></p>
