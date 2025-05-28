@@ -95,8 +95,13 @@ E-commerce app with product filtering, sorting, and cart integration.
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali-singh02&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
+  <img src="https://streak-stats.demolab.com/?user=anjali-singh02&theme=tokyonight" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-singh02&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-singh02&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+
